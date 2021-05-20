@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/test-mintable-token/static/css/main.b100e6da.chunk.css",
+    "main.js": "/test-mintable-token/static/js/main.3d3382a5.chunk.js",
+    "main.js.map": "/test-mintable-token/static/js/main.3d3382a5.chunk.js.map",
+    "runtime-main.js": "/test-mintable-token/static/js/runtime-main.981218d4.js",
+    "runtime-main.js.map": "/test-mintable-token/static/js/runtime-main.981218d4.js.map",
+    "static/js/2.7b0ff469.chunk.js": "/test-mintable-token/static/js/2.7b0ff469.chunk.js",
+    "static/js/2.7b0ff469.chunk.js.map": "/test-mintable-token/static/js/2.7b0ff469.chunk.js.map",
+    "index.html": "/test-mintable-token/index.html",
+    "precache-manifest.b2001bc2a2e8bff1d3259f0070bcd03c.js": "/test-mintable-token/precache-manifest.b2001bc2a2e8bff1d3259f0070bcd03c.js",
+    "service-worker.js": "/test-mintable-token/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/test-mintable-token/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.981218d4.js",
+    "static/js/2.7b0ff469.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.3d3382a5.chunk.js"
+  ]
+}
